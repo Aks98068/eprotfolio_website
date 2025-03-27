@@ -77,7 +77,7 @@ ePortfolio/
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/Aks98068/eprotfolio_website.git)
    ```
 
 2. Open `index.html` in your web browser to view the website.
