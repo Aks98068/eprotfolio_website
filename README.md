@@ -84,11 +84,3 @@ ePortfolio/
 
 3. Navigate through the different sections using the navigation bar.
 
-## Hosting
-
-The website can be hosted on various platforms:
-- GitHub Pages
-- Netlify
-- Vercel
-- Any web server
-
